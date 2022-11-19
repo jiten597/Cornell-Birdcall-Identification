@@ -22,11 +22,11 @@ The experimental settings are as follows:
   - `fmax`: 16000
 * image size: 224x547
 
-# about dataset
+# About dataset
 I used resmpaled train dataset for this notebook, see more details in [discussion]('https://www.kaggle.com/c/birdsong-recognition/discussion/164197').
 
 
-# about custom packages
+# About custom packages
 In the **training notebook**, I used two custom packages, `pytorch-pfn-extras` for training and the authors' official implementation of `ResNeSt` for building model.  
 
 # Reference
